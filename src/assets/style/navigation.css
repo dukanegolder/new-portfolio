@@ -1,0 +1,6 @@
+.links{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+    font-size: 30px;
+}

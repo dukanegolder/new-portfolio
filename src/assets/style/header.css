@@ -1,0 +1,20 @@
+.backgroundtext{
+    color: white;
+    display: flex !important;
+    align-items: center !important ;
+    background-image: url("../img/D23C1CDA-31E9-47B3-A42A-6B54DCA85632.jpeg") ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-left: 20px;    
+}
+
+.name{
+    font-size: 90px;
+}
+
+.about{
+    font-size: 30px;
+}
+
+

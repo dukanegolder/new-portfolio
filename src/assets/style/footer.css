@@ -1,0 +1,14 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+ }
+
+ .linked-logo{
+    margin-left: 20px !important;
+ }

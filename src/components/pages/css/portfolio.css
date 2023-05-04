@@ -1,0 +1,27 @@
+.cardsize {
+    margin-top: 8% !important;
+    min-width: 600px !important;
+    max-width: 600px !important;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    border: none !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.cards{
+    background-color: transparent !important;
+    color: #10aad0;
+    border: none !important;  
+}
+
+.cards :hover{
+    border-radius: 15px !important;
+}
+
+
+a :hover{
+    text-decoration:underline rgba(255, 255, 255, 0.25) !important;
+}
