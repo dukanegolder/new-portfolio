@@ -1,10 +1,11 @@
 .cardsize {
-    margin-top: 8% !important;
+    margin-top: 4% !important;
     min-width: 600px !important;
     max-width: 600px !important;
     padding-left: 100px !important;
-    padding-right: 100px !important;
+    padding-right: 80px !important;
     border: none !important;
+    font-family: 'Source Sans Pro' ,source-code-pro;
 }
 
 a{
@@ -13,7 +14,7 @@ a{
 
 .cards{
     background-color: transparent !important;
-    color: #10aad0;
+    color: #ffffff;
     border: none !important;  
 }
 
@@ -24,4 +25,10 @@ a{
 
 a :hover{
     text-decoration:underline rgba(255, 255, 255, 0.25) !important;
+}
+
+.port-header{
+    margin-top: 30px;
+    margin-left: 90px;
+
 }
