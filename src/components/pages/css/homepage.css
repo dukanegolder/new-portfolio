@@ -13,12 +13,11 @@
     margin-right: 30px;
     font-size: 25px;
     font-family: 'Source Sans Pro' ,source-code-pro;
-
 }
 
 .column {
     float: left;
-    width: 50%;
+    width: 50% !important;
   }
   
   .row:after {

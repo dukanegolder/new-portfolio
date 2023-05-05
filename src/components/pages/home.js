@@ -5,8 +5,8 @@ import "./css/homepage.css";
 
 function Home() {
   return (
-    <div class="row">
-      <div class="column">
+    <div className="row">
+      <div className="column">
         <h2 className="home-head">Get a taste</h2>
         <Col className="cardsize">
           <a href="https://jate-text-editor11.herokuapp.com/">
@@ -50,7 +50,7 @@ function Home() {
           </a>
         </Col>
       </div>
-      <div class="column">
+      <div className="column">
         <div>
           <h2 className="home-head2">About Me</h2>
           <p className="home-about">
