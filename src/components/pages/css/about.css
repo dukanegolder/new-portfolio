@@ -1,0 +1,22 @@
+.about-header{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.about-p{
+    padding: 0 90px 0;
+   padding-top: 15px;
+   font-size: 20px;
+   font-family: 'Source Sans Pro' ,source-code-pro;
+}
+
+.about-text{
+    margin-left: 90px !important;
+    margin-right: 5px;
+}
+
+.about-personal{
+    display: flex !important;
+    justify-content: center !important;
+    margin-left: 140px;
+}

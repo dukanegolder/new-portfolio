@@ -13,7 +13,9 @@ function Portfolio() {
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://images.unsplash.com/photo-1560017896-a6bf1e2acfb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYXRoZXIlMjBhcHB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+                src="https://t3.ftcdn.net/jpg/01/02/60/62/240_F_102606204_KDhMUtFiEt4BL7ejj13bk6MLSj844DGF.jpg"
+                width="400"
+                height="300"
               />
               <Card.Body className="textbody">
                 <Card.Title>Weather Tracker</Card.Title>
@@ -31,7 +33,7 @@ function Portfolio() {
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://images.unsplash.com/photo-1570135460237-510ca82c6781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmF6YWFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://t4.ftcdn.net/jpg/02/34/75/81/240_F_234758174_rSyB296IupLS5MJ0MErC2NHF4c0CvqBc.jpg"
                 width="400"
                 height="300"
               />
@@ -67,54 +69,62 @@ function Portfolio() {
           </a>
         </Col>
         <Col className="cardsize">
-          <a href="https://dukanegolder.github.io/weather-tracker/">
+          <a href="https://dukanegolder.github.io/movie-recommender/">
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://images.unsplash.com/photo-1560017896-a6bf1e2acfb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYXRoZXIlMjBhcHB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+                src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vdmllJTIwbmlnaHR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+                width="400"
+                height="300"
               />
               <Card.Body className="textbody">
-                <Card.Title>Weather Tracker</Card.Title>
+                <Card.Title>Movie Recommender</Card.Title>
                 <Card.Text>
-                  This is a longer card with supporting text below as a natural
-                  lead-in to additional content. This content is a little bit
-                  longer.
+                  For this project, I wanted to create a user friendly website
+                  that would allow a user to view top rated movies, and filter
+                  genre types. The user can make a search, as well as use the
+                  given genre filters to help make an advised selection.
                 </Card.Text>
               </Card.Body>
             </Card>
           </a>
         </Col>
         <Col className="cardsize">
-          <a href="https://dukanegolder.github.io/weather-tracker/">
+          <a href="https://dukanegolder.github.io/daily-planner/">
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://images.unsplash.com/photo-1560017896-a6bf1e2acfb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYXRoZXIlMjBhcHB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+                src="https://images.unsplash.com/photo-1514474959185-1472d4c4e0d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGRhaWx5JTIwcGxhbm5lcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+                width="400"
+                height="300"
               />
               <Card.Body className="textbody">
-                <Card.Title>Weather Tracker</Card.Title>
+                <Card.Title>Daily Planner</Card.Title>
                 <Card.Text>
-                  This is a longer card with supporting text below as a natural
-                  lead-in to additional content. This content is a little bit
-                  longer.
+                  This project is to provide the user with a daily planner. The
+                  planner provides the current date and time in the header. The
+                  day is then divided into hour sections from 8 am to 5 pm
+                  (business hours).
                 </Card.Text>
               </Card.Body>
             </Card>
           </a>
         </Col>
         <Col className="cardsize">
-          <a href="https://dukanegolder.github.io/weather-tracker/">
+          <a href="https://github.com/dukanegolder/readme-generator">
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://images.unsplash.com/photo-1560017896-a6bf1e2acfb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYXRoZXIlMjBhcHB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+                src="https://www.makeareadme.com/images/open-graph-logo.png?v=20181203"
+                width="400"
+                height="300"
               />
               <Card.Body className="textbody">
-                <Card.Title>Weather Tracker</Card.Title>
+                <Card.Title>README Generator</Card.Title>
                 <Card.Text>
-                  This is a longer card with supporting text below as a natural
-                  lead-in to additional content. This content is a little bit
-                  longer.
+                  This project is meant to be a README file generator using
+                  prompts that create sections and inputs text into a README
+                  file from the node terminal.
                 </Card.Text>
               </Card.Body>
             </Card>
