@@ -55,12 +55,12 @@ function Home() {
           <h2 className="home-head2">About Me</h2>
           <p className="home-about">
             Hi my name is Dukane Golder but you can call me Duke. I currently
-            live in Utah with my wife, new baby boy, and two dogs. And although
-            I love Utah and all it has to offer, I still consider Idaho my
-            homes. Throguhout my life not only did I have a passion for sports
-            like basketball, football, and golf, but I also enjoy creating and
+            live in Utah with my wife, new baby boy, and two dogs. Although I
+            love Utah and all it has to offer, I still consider Idaho my home.
+            Throughout my life not only did I have a passion for sports like
+            basketball, football, and golf, but I also enjoy creating and
             building. This passion is what led me to pursue an education and
-            career in Computer programming. I am hardworking, driven, and hope
+            career in computer programming. I am hardworking, driven, and hope
             to be able to help others create their vision.
           </p>
         </div>
