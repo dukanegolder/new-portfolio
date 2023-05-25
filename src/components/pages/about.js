@@ -21,7 +21,7 @@ function About() {
         challenges as I begin my career.
       </p>
       <div>
-        <a href="https://www.linkedin.com/in/dukane-golder/">
+        <a href="https://drive.google.com/file/d/1rL8usIKTrBVutcY5WW-7u2ezcj2Rx0aE/view?usp=sharing">
           <IoDocumentTextSharp size={30} className="about-text" />
           Resume
         </a>
