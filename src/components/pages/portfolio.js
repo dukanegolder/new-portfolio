@@ -111,20 +111,22 @@ function Portfolio() {
           </a>
         </Col>
         <Col className="cardsize">
-          <a href="https://github.com/dukanegolder/readme-generator">
+          <a href="https://pure-spire-26458.herokuapp.com/">
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://www.makeareadme.com/images/open-graph-logo.png?v=20181203"
+                src="https://plus.unsplash.com/premium_photo-1678766594018-d6716962c79c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z29sZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 width="400"
                 height="300"
               />
               <Card.Body className="textbody">
-                <Card.Title>README Generator</Card.Title>
+                <Card.Title>Match Point</Card.Title>
                 <Card.Text>
-                  This project is meant to be a README file generator using
-                  prompts that create sections and inputs text into a README
-                  file from the node terminal.
+                  The purpose of this app is to provide a social media platform
+                  for individuals who want to find pick-up games or compete in
+                  competitive leagues, events, and tournaments for different
+                  sports. Users can create a profile to connect with teams and
+                  leagues in their desired sports.
                 </Card.Text>
               </Card.Body>
             </Card>
