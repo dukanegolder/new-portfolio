@@ -29,20 +29,20 @@ function Portfolio() {
           </a>
         </Col>
         <Col className="cardsize">
-          <a href="https://hogar-bazaar.herokuapp.com/login">
+          <a href="https://risingmoonminerals.com/">
             <Card className="cards">
               <Card.Img
                 variant="top"
-                src="https://t4.ftcdn.net/jpg/02/34/75/81/240_F_234758174_rSyB296IupLS5MJ0MErC2NHF4c0CvqBc.jpg"
+                src="src/assets/img/Screenshot 2023-10-09 at 5.43.26 PM.png"
                 width="400"
                 height="300"
               />
               <Card.Body className="textbody">
-                <Card.Title>Hogar Bazaar</Card.Title>
+                <Card.Title>Rising Moon Minerals</Card.Title>
                 <Card.Text>
-                  Hogar Bazaar is an online marketplace for home goods that is
-                  designed to provide users with a platform to buy and sell new,
-                  old or custom made items.
+                  Rising Moon Minerals is a E-commerce website created using
+                  shopify. It allows users to browse through products, add them
+                  to their cart or checkout with Stripe payment processing.
                 </Card.Text>
               </Card.Body>
             </Card>
